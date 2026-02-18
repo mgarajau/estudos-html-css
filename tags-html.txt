@@ -1,0 +1,33 @@
+Tags HTML Agrupadas Por Função
+
+
+ESTRUTURA:
+<header> - Cabeçalho do site ou seção
+<nav> - Menu de navegação
+<main> - Conteúdo principal (só 1 por página!)
+<section> - Seção de conteúdo
+<article> - Conteúdo independente (post, produto)
+<aside> - Conteúdo lateral/relacionado
+<footer> - Rodapé
+
+TEXTO:
+<h1> a <h6> - Títulos (hierarquia!)
+<p> - Parágrafo
+<strong> - Texto importante (negrito semântico)
+<em> - Ênfase (itálico semântico)
+<mark> - Texto destacado
+<small> - Texto menor
+
+LISTAS:
+<ul> - Lista não ordenada (bullets)
+<ol> - Lista ordenada (números)
+<li> - Item de lista
+<dl>, <dt>, <dd> - Lista de definições
+
+FORMULÁRIOS:
+<form> - Formulário
+<input> - Campo de entrada
+<textarea> - Área de texto
+<select> - Lista suspensa
+<button> - Botão
+<label> - Rótulo de campo
